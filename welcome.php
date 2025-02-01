@@ -50,10 +50,10 @@ body {
 
 <div class="topnav">
   <a class="active" href="/">Home</a>
-  <a href="/Services/Mowing">Mowing</a>
-  <a href="/Services/Snow_Shoveling">Snow Shoveling</a>
-  <a href="/Services/Raking">Raking</a>
-  <a  href="/Login.php">Login</a>
+  <a href="Services/Mowing">Mowing</a>
+  <a href="Services/Snow_Shoveling">Snow Shoveling</a>
+  <a href="Services/Raking">Raking</a>
+  <a  href="Login.php">Login</a>
 </div>
 Welcome <?php echo $_POST["name"]; ?><br>
 </style>
